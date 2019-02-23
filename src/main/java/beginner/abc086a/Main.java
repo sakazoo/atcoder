@@ -1,4 +1,4 @@
-package beginner.product;
+package beginner.abc086a;
 
 import java.util.Scanner;
 

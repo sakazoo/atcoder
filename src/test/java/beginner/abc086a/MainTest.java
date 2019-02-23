@@ -1,4 +1,4 @@
-package beginner.product;
+package beginner.abc086a;
 
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
@@ -10,6 +10,8 @@ import java.io.InputStream;
 import java.io.PrintStream;
 
 import org.junit.Test;
+
+import beginner.abc086a.Main;
 
 public class MainTest {
 
